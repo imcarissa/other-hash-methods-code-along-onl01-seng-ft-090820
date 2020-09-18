@@ -16,5 +16,5 @@ groceries = {
   grains: ["rice", "pasta"]
  }
  
- groceries.values.flatten
+ groceries.values.
 end

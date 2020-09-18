@@ -17,5 +17,4 @@ def get_the_keys(groceries)
  }
 
     groceries.keys
-    groceries.values.flatten
 end

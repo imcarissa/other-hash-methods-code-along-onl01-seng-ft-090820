@@ -17,4 +17,5 @@ groceries = {
  }
  
  groceries.values
+ binding.pry
 end

@@ -16,5 +16,5 @@ groceries = {
   grains: ["rice", "pasta"]
  }
  
- groceries.values.min
+ groceries.values.flatteb.min
 end
